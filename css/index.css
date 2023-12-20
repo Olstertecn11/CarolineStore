@@ -1,0 +1,77 @@
+
+
+
+._logo
+{
+  width: 7vw;
+  height: 4vw;
+
+}
+
+
+.navbar{
+  background: #DAE9E4 !important;
+}
+
+.navbar-brand{
+  display: flex;
+}
+
+
+.title-store{
+  margin-left: 1vw;
+  font-size: 150%;
+  color: #016747;
+}
+
+.navbar-collapse{
+  margin-left: 16vw;
+}
+
+
+.nav-link{
+  margin-left: 2vw;
+  background: #016747;
+  border-radius: 25px 25px;
+  color: white;
+  width: 7vw;
+  text-align: center;
+  font-weight: bold;
+}
+
+.active{
+  background: white;
+  color: #016747 !important;
+  font-weight: bold;
+
+}
+
+
+
+.image-container{
+  padding: 0;
+  margin: 0;
+  z-index: 100;
+  width: 100%;
+}
+
+
+.bg-image{
+  position: absolute;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  filter: brightness(40%);
+  z-index: -1;
+}
+
+
+
+
+
+
+
+
+
+
+
